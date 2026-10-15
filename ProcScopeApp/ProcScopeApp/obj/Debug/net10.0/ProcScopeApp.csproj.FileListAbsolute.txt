@@ -1,0 +1,14 @@
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\bin\Debug\net10.0\ProcScopeApp.exe
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\bin\Debug\net10.0\ProcScopeApp.deps.json
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\bin\Debug\net10.0\ProcScopeApp.runtimeconfig.json
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\bin\Debug\net10.0\ProcScopeApp.dll
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\bin\Debug\net10.0\ProcScopeApp.pdb
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ProcScopeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ProcScopeApp.AssemblyInfoInputs.cache
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ProcScopeApp.AssemblyInfo.cs
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ProcScopeApp.csproj.CoreCompileInputs.cache
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ProcScopeApp.dll
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\refint\ProcScopeApp.dll
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ProcScopeApp.pdb
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ProcScopeApp.genruntimeconfig.cache
+C:\Users\yev0008\source\csharp\ProcScope\ProcScopeApp\ProcScopeApp\obj\Debug\net10.0\ref\ProcScopeApp.dll

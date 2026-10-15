@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ProcScopeApp/1.0.0": {
+        "runtime": {
+          "ProcScopeApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcScopeApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
